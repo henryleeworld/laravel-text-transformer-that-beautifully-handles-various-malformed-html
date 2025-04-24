@@ -1,4 +1,4 @@
-# Laravel 10 漂亮地處理各種錯誤格式 HTML 的文字轉換器
+# Laravel 11 漂亮地處理各種錯誤格式 HTML 的文字轉換器
 
 引入 stevebauman 的 hypertext 套件來擴增漂亮地處理各種錯誤格式 HTML（HyperText Markup Language，超文本標記語言）的文字轉換器，它的工作原理是將 HTML 字串作為輸入並刪除所有標記，留下純文字。
 
@@ -23,5 +23,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/fl7CgfU.png)
+![](https://i.imgur.com/STvu1mU.png)
 > 將 HTML 轉換為純文字
